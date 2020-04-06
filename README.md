@@ -1,6 +1,6 @@
-This project made in order to demonstrate simple microservices connection with a QueueManager on RabbitMQ platform.
+This project made in order to demonstrate microservices connection with a QueueManager on RabbitMQ platform.
 
-There is 2 standalone projects CLIENT and SERVER:
+There is 2 standalone projects: CLIENT and SERVER:
 
 
 Server:
